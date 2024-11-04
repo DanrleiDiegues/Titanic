@@ -1,0 +1,4 @@
+# This is the Kaggle Titanic project.
+# Here, you will find various models used to classify instances, such as Logistic Regression, SVM, Random Forest, and Ensemble methods.
+# Additionally, I have worked to extract more value from the original dataset by creating new features, identifying correlations, and more.
+# I am continuously testing different approaches and updating this file, which can be run in Jupyter Notebook.
